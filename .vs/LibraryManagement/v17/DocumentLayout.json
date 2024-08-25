@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09725A1F-9886-48C8-BD9B-E4DC9166AABB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\koray\\onedrive\\documents\\github\\first-web-api-project\\librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09725A1F-9886-48C8-BD9B-E4DC9166AABB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09725A1F-9886-48C8-BD9B-E4DC9166AABB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\koray\\onedrive\\documents\\github\\first-web-api-project\\librarymanagement\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09725A1F-9886-48C8-BD9B-E4DC9166AABB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09725A1F-9886-48C8-BD9B-E4DC9166AABB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\koray\\onedrive\\documents\\github\\first-web-api-project\\librarymanagement\\business\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09725A1F-9886-48C8-BD9B-E4DC9166AABB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\business\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:32:39.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:30:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BookCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Models\\CreateDtos\\BookCreateDto.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Models\\CreateDtos\\BookCreateDto.cs",
@@ -34,25 +68,23 @@
               "RelativeToolTip": "LibraryManagement\\Models\\CreateDtos\\BookCreateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T11:46:22.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T11:46:22.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Business\\BookService.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Business\\BookService.cs",
               "ToolTip": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Business\\BookService.cs",
               "RelativeToolTip": "LibraryManagement\\Business\\BookService.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAIwJcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:00:57.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T19:00:57.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthorService.cs",
               "DocumentMoniker": "C:\\Users\\koray\\OneDrive\\Documents\\GitHub\\First-Web-API-Project\\LibraryManagement\\Business\\AuthorService.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Business\\AuthorService.cs",
@@ -60,8 +92,7 @@
               "RelativeToolTip": "LibraryManagement\\Business\\AuthorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:10:38.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:10:38.234Z"
             }
           ]
         }
